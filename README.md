@@ -1,3 +1,7 @@
+# Project Screenshot
+![screenshotgif](https://user-images.githubusercontent.com/11215821/37607990-5b6e7c94-2bbf-11e8-8e29-423442120a86.gif)
+
+
 # GamesArena
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.6.5.
